@@ -4,11 +4,12 @@
 [![Versión de Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.4-brightgreen)](https://developer.android.com/jetpack/compose)
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <img src="https://via.placeholder.com/300x600/1a1a1a/FFFFFF?text=Menú+Principal" width="200">
-  <img src="https://via.placeholder.com/300x600/1a1a1a/FFFFFF?text=Pantalla+de+Juego" width="200">
-  <img src="https://via.placeholder.com/300x600/1a1a1a/FFFFFF?text=Resultados" width="200">
-</div>
+## 📸 Capturas de pantalla
+
+| Menú principal | Juego | Resultados |
+|----------------|-------|------------|
+| <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Menú" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Juego" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Resultados" width="200"></div> |
+
 
 ---
 
