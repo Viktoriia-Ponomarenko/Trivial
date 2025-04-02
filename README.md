@@ -8,9 +8,9 @@
 
 | Menú principal | Juego | Resultados |
 |----------------|-------|------------|
-| <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Menú" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Juego" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Resultados" width="200"></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/95605c75-165a-4a97-bde6-dacab641fa4d" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Juego" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Resultados" width="200"></div> |
 
-![Captura de pantalla 2023-10-22 151120](https://github.com/user-attachments/assets/015c3e0e-5965-44d8-a460-b147489cf6cc)
+
 
 ---
 
