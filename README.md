@@ -10,6 +10,7 @@
 |----------------|-------|------------|
 | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Menú" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Juego" width="200"></div> | <div align="center"><img src="https://via.placeholder.com/300x600.png?text=Resultados" width="200"></div> |
 
+![Captura de pantalla 2023-10-22 151120](https://github.com/user-attachments/assets/015c3e0e-5965-44d8-a460-b147489cf6cc)
 
 ---
 
@@ -38,4 +39,4 @@
 ## 🚀 Comenzar rápidamente
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/TrivialApp.git
+git clone https://github.com/Viktoriia-Ponomarenko/Trivial.git
